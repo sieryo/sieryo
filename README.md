@@ -1,5 +1,3 @@
-## Play the Chrome Dino Game
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&duration=3000&pause=1000&color=F70000&background=FF000000&center=true&width=700&lines=Never+let+yesterday+use+up+too+much+of+today.)](https://git.io/typing-svg)
 
 <table align="center" width="100%">
