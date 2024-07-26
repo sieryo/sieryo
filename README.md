@@ -8,5 +8,5 @@
 </a>
 
 <picture>
-  <img alt="https://google.com" src="./img/dino.gif" />
+  <img alt="https://google.com" src="https://assets.ggwp.id/2020/08/kata-kata-free-fire-romantis-1.jpg" />
 </picture>
